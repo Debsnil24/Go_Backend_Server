@@ -1,6 +1,6 @@
 # Go_Backend_Server
 
-This is a simple webserver implemented on Go at the port 8080 which has 3 routes
+This is a simple webserver implemented on Go at the port 8080 on the localhost which has 3 routes
 
 "/" route leads to the index.html page
 
